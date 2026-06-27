@@ -1,6 +1,5 @@
 # 🏥 MediConnect - Multi-Hospital Patient Record System
 
-**Advanced Database Systems | Semester Project**
 
 A full-stack web application for managing patient records across multiple hospitals with role-based access for Patients, Doctors, and Admins.
 
